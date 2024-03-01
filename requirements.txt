@@ -12,4 +12,6 @@ yfinance
 openpyxl
 ta
 xgboost
+prophet
+plotly
 
