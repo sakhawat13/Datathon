@@ -5,9 +5,7 @@ click==8
 DateTime
 investpy
 numpy
-scikit-learn
 scipy
-sklearn
 yfinance
 openpyxl
 ta
