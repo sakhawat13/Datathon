@@ -18,7 +18,7 @@ from st_aggrid import AgGrid, GridOptionsBuilder
 from st_aggrid.shared import GridUpdateMode
 from st_aggrid.shared import JsCode
 
-df = pd.read_csv("Orderdays.csv")
+df = pd.read_excel("df.xlsx")
 # In[3]:
 
 option = st.selectbox(
